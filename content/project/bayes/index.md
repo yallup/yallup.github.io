@@ -1,6 +1,6 @@
 ---
-title: Bayseian Machine Learning
-summary: Investigating the interplay between rigourous statistical techniques used in precision science, and inference performed with modern Machine Learning. _Can techniques developed in physics help open the black box of Machine Learning?_
+title: Bayesian Machine Learning
+summary: Investigating the interplay between rigorous statistical techniques used in precision science, and inference performed with modern Machine Learning. _Can techniques developed in physics help open the black box of Machine Learning?_
 tags:
 - bayes
 - neural network
