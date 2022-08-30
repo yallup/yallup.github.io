@@ -82,7 +82,7 @@ email: "dy297@cam.ac.uk"
 
 I am a research associate based at the Kavli Institute for Cosmology, Department of Physics, University of Cambridge. I am an early career researcher aiming to bring together a mix of interests in ML and precision fundamental science. This page details my current research interests, some biographical information and most importantly contains links to contact me. Please reach out if you are interested in collaborating on any of the topics listed.
 
-My fundamental goal is to find out how we build explainable and equitable AI, and I like to consider a number of scientific applications of the technology alongside this.
+My fundamental goal is to find out how we can best build explainable and equitable AI, and I like to consider a number of scientific applications of the technology alongside this.
 
 
 
