@@ -1,0 +1,30 @@
+# Theme metadata
+name = "daves"
+
+# Is theme light or dark?
+light = true
+
+primary = "hsl(29, 84%, 51%)"
+
+
+
+menu_primary = "hsl(190, 26%, 13%)"
+menu_text = "hsl(0, 0%, 98%)"
+menu_text_active = "hsl(29, 84%, 51%)"
+menu_title = "hsl(0, 0%, 90%)"
+
+
+# Home sections
+home_section_odd = "hsl(0, 0%, 98%)"
+home_section_even = "hsl(0, 0%, 90%)"
+
+
+dark_background = "hsl(190, 26%, 8%)"
+background= "hsl(0, 0%, 98%)"
+
+link_hover="hsl(180, 100%, 30%)"
+
+
+# Home sections
+dark_home_section_odd = "hsl(190, 26%, 10%)"
+dark_home_section_even = "hsl(190, 26%, 16%)"

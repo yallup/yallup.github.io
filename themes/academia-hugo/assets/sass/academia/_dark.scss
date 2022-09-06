@@ -56,7 +56,7 @@ body.dark,
 }
 
 .dark table table {
-  background-color: rgb(40, 42, 54);
+  background-color: $sta-dark-background;
 }
 
 /* Table Striped */
@@ -96,12 +96,13 @@ body.dark,
 }
 
 .dark .pagination li > a, .pagination li > span {
-  background-color: rgb(40, 42, 54);
+  background-color: $sta-dark-background;
   border: 1px solid #ddd;
 }
 
 .dark .card {
-  background: #343a40;
+  // background: #343a40;
+  background: $sta-dark-background;
 }
 
 .dark .card h4 a {
@@ -118,7 +119,8 @@ body.dark,
 }
 
 .dark .navbar-light {
-  background: #2d303c !important;
+  //background: #2d303c !important;
+  background: #19272a !important;
   box-shadow: 0 0.125rem 0.25rem 0 #22212900;
   border-color: #070707;
 }
@@ -132,7 +134,8 @@ body.dark,
 }
 
 .dark select {
-  background: rgb(40, 42, 54);
+  //background: rgb(40, 42, 54);
+  background: $sta-dark-background;
   color: rgb(248, 248, 242);
 }
 
@@ -172,13 +175,16 @@ body.dark,
 }
 
 .dark .bg-white{
-  background: #2d303c !important;
+  // background: #2d303c !important;
+  background: $sta-dark-home-section-odd !important;
 }
 
 .dark .network-icon a:hover {
-  background: #272935;
+//   background: #272935;
+      background: $sta-dark-background;
 }
 
 .dark .home-section:nth-of-type(even) {
-  background-color: #212529 !important;
+  // background-color: #212529 !important;
+  background-color: $sta-dark-home-section-even !important;
 }

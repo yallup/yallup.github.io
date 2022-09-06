@@ -19,9 +19,11 @@
 }
 
 .dark .card-simple {
-  background: rgb(40, 42, 54);
+  // background: rgb(40, 42, 54);
+  background: $sta-dark-background;
   box-shadow: 0 1px 4px rgba(0,0,0,.04);
-  border: 1px solid rgb(68, 71, 90);
+  border: 1px solid $sta-primary-dark;
+  // border: 1px solid rgb(68, 71, 90);
 }
 
 .card {

@@ -24,16 +24,16 @@
 
   {{ if $theme.light }}
     {{- $scr.Set "background" ($theme.background | default "#fff") -}}
-    {{- $scr.Set "dark_background" "rgb(40, 42, 54)" -}}
+    {{- $scr.Set "dark_background" ($theme.dark_background | default "rgb(40, 42, 54)") -}}
     {{- $scr.Set "home_section_odd" $theme.home_section_odd -}}
     {{- $scr.Set "home_section_even" $theme.home_section_even -}}
-    {{- $scr.Set "dark_home_section_odd" "hsla(231, 15%, 18%, 1)" -}}
-    {{- $scr.Set "dark_home_section_even" "hsla(231, 15%, 16%, 1)" -}}
+    {{- $scr.Set "dark_home_section_odd" ($theme.dark_home_section_odd | default "hsla(231, 15%, 18%, 1)") -}}
+    {{- $scr.Set "dark_home_section_even" ($theme.dark_home_section_even | default "hsla(231, 15%, 16%, 1)") -}}
   {{ else }}
     {{- $scr.Set "background" ($theme.background | default "#fff") -}}
-    {{- $scr.Set "dark_background" ($theme.background | default "rgb(40, 42, 54)") -}}
-    {{- $scr.Set "home_section_odd" "rgb(255, 255, 255)" -}}
-    {{- $scr.Set "home_section_even" "rgb(247, 247, 247)" -}}
+    {{- $scr.Set "dark_background" ($theme.dark_background | default "rgb(40, 42, 54)") -}}
+    {{- $scr.Set "home_section_odd" ($theme.home_section_odd | default "rgb(255, 255, 255)") -}}
+    {{- $scr.Set "home_section_even" ($theme.home_section_even | default "rgb(247, 247, 247)") -}}
     {{- $scr.Set "dark_home_section_odd" $theme.home_section_odd -}}
     {{- $scr.Set "dark_home_section_even" $theme.home_section_even -}}
   {{ end }}
