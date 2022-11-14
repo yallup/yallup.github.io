@@ -75,7 +75,7 @@ projects:
 
 Starting from the simplest problem, a noisy XOR classifier, and the simplest Bayesian Neural Network,
 
-{{<figure src="featured.png" width="800">}}
+{{<figure src="summary.png" width="800">}}
 
 We show that a posterior that is multimodal in _parameter_ space emerges,
 

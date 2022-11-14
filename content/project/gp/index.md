@@ -26,7 +26,7 @@ The core idea being explored is to build on recent work from the frontier of mac
 
 ## Application to Astronomy and Cosmology
 
-Astronomy and Cosmology are both disciplines that make extensive use of "time series" style data, a domain GPs are well suited to[^fn3]. There are a number of well established datasets and problems that are accessible, and we can consider a variety of modelling problems as a set of test cases for the novel Bayesian approach to GPs we will explore. Modelling tensions in early and late time Cosmology[^fn5] or modelling time delay of lensed quasars[^fn3] can be pulled out as two key example.
+Astronomy and Cosmology are both disciplines that make extensive use of "time series" style data, a domain GPs are well suited to[^fn3]. There are a number of well established datasets and problems that are accessible, and we can consider a variety of modelling problems as a set of test cases for the novel Bayesian approach to GPs we will explore. Modelling tensions in early and late time Cosmology[^fn5] or modelling time delay of lensed quasars[^fn3] can be pulled out as two potential examples.
 
 The proposed marginalisation aims to further refine the uncertainty estimates on the predictions from a Gaussian Process, existing analyses serve as a useful benchmark for this type of new algorithm application. By studying astronomical data we can test if we can shed any new light on the nature of the universe using this approach.
 

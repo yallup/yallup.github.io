@@ -77,7 +77,7 @@ Where the matrix element, $\mathcal{M}$ and the likelihood, $\mathcal{L}$, play 
 
 This analogy allows us to bring a state of the art tool to calculate the evidence, Nested Sampling (NS), to the particle physics context,
 
-{{<figure src="featured.jpg" width="1200">}}
+{{<figure src="summary.jpg" width="1200">}}
 
 Which demonstrates promising dimensional scaling
 

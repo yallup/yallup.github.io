@@ -12,7 +12,8 @@ day_night = true
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "classic"
+font = "daves"
+
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -108,6 +109,8 @@ plugins_js  = []
 ############################
 ## Advanced options       ##
 ############################
+
+#font_size = s
 
 # Get user avatars from Gravatar.com? (true/false)
 gravatar = false
