@@ -13,12 +13,12 @@ author:
 ############################
 
 links:
-  - github: https://github.com/yallup/yallup.github.io
-  - link: https://github.com/yallup/yallup.github.io#readme
+  - github: https://github.com/yallup
+  # - link: https://github.com/yallup/yallup.github.io#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
-  # - linkedin: 
+  - linkedin: https://www.linkedin.com/in/dyallup/
   # - instagram: 
   # - reddit: 
   # - telegram: 
@@ -26,7 +26,7 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
+  - email: dy297@cam.ac.uk
   # - discord: 
   # - orcid: 
   # - slack: 
