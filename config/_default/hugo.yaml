@@ -3,13 +3,13 @@
 ############################
 
 baseURL: "https://yallup.github.io"
-title: yallup.github.io
+title: David Yallup's personal webpage
 
 ############################
 ## MISC
 ############################
 
-enableEmoji: true
+enableEmoji: false
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true

@@ -3,10 +3,10 @@
 ############################
 
 author:
-  name: yallup
-  image: author.png
-  greeting: "Your new Qubt site :tada:"
-  icon: ":wave:"
+  name: David Yallup
+  image: portrait.jpeg
+  greeting: Research Associate at the University of Cambridge
+  # icon: ":wave:"
 
 ############################
 ## Links
@@ -14,7 +14,7 @@ author:
 
 links:
   - github: https://github.com/yallup
-  # - link: https://github.com/yallup/yallup.github.io#readme
+  - link: https://www.kicc.cam.ac.uk/staff/david-yallup
   # - website: 
   # - x-twitter: 
   # - mastodon: 
@@ -26,7 +26,7 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  - email: dy297@cam.ac.uk
+  - email: mailto:dy297@cam.ac.uk
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -65,6 +65,6 @@ links:
 ###############################
 
 title: yallup.github.io
-description: "Site build with Qubt & Hugo"
+description: Personal website of David Yallup"
 images:
   - thumbnail.png
