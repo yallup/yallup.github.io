@@ -2,4 +2,4 @@
 title: Blog
 ---
 
-Technical notes on probabilistic inference, machine learning for science, and GPU-accelerated sampling methods.
+Technical notes, work highlights and general musings.

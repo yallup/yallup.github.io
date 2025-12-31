@@ -1,0 +1,5 @@
+/* Card image fit width */
+.grid a > div > div:first-child img {
+  object-fit: contain;
+  background-color: white;
+}
