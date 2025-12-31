@@ -5,8 +5,7 @@
 author:
   name: David Yallup
   image: portrait.jpeg
-  greeting: Research Associate at the University of Cambridge
-  # icon: ":wave:"
+  greeting: "Research Associate at the University of Cambridge"
 
 ############################
 ## Links
@@ -15,56 +14,14 @@ author:
 links:
   - github: https://github.com/yallup
   - link: https://www.kicc.cam.ac.uk/staff/david-yallup
-  # - website: 
-  # - x-twitter: 
-  # - mastodon: 
   - linkedin: https://www.linkedin.com/in/dyallup/
-  # - instagram: 
-  # - reddit: 
-  # - telegram: 
-  # - whatsapp: 
-  # - signal: 
-  # - codepen: 
-  # - dev: 
   - email: mailto:dy297@cam.ac.uk
-  # - discord: 
-  # - orcid: 
-  # - slack: 
-  # - stack-overflow: 
-  # - twitch: 
-  # - patreon: 
-  # - soundcloud: 
-  # - dribbble: 
-  # - stack-exchange: 
-  # - tiktok: 
-  # - youtube: 
-  # - keybase: 
-  # - flickr: 
-  # - tumblr: 
-  # - kickstarter: 
-  # - snapchat:
-  # - bluesky: 
-  # - bitbucket: 
-  # - bandcamp: 
-  # - etsy: 
-  # - spotify: 
-  # - pinterest: 
-  # - strava: 
-  # - untappd: 
-  # - skype: 
-  # - medium: 
-  # - foursquare: 
-  # - apple: 
-  # - amazon:
-  # - google:
-  # - paypal:
-  # - windows:
 
-###############################
+############################
 ## OpenGraph & Twitter Cards
-###############################
+############################
 
-title: yallup.github.io
-description: Personal website of David Yallup"
+title: David Yallup
+description: Personal academic website of David Yallup, Research Associate at the University of Cambridge
 images:
   - thumbnail.png

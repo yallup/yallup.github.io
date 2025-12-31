@@ -19,5 +19,13 @@ Current specific topics of interest:
  - Simulation Based inference, interfacing generative AI with scientific inference problems.
  - MCMC methods, particularly with a view to building scalable GPU inference tools.
 
+### Current Work
+
+I am currently building frameworks in [JAX](https://github.com/jax-ml/jax), a high-performance numerical computing library for machine learning research, and working extensively with [BlackJAX](https://blackjax-devs.github.io/blackjax/), a library of samplers for JAX that provides state-of-the-art MCMC and variational inference algorithms.
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 2rem; margin: 2rem 0;">
+  <img src="/images/jax_logo.png" alt="JAX" />
+  <img src="/images/blackjax_logo.png" alt="BlackJAX" />
+</div>
 
 I am happy to discuss any of these topics, and open to contact for collaboration.

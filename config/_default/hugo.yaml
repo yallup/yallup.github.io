@@ -3,7 +3,7 @@
 ############################
 
 baseURL: "https://yallup.github.io"
-title: yallup.github.io
+title: David Yallup
 
 ############################
 ## MISC
@@ -13,3 +13,8 @@ enableEmoji: false
 disableKinds: ["taxonomy", "term"]
 languageCode: "en-us"
 enableRobotsTXT: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
