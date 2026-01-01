@@ -10,7 +10,7 @@ Please follow the instructions below to finish the setup of your new Qubt site.
 git clone https://github.com/<username>/<reponame>
 ```
 3) Modify `config/_default/hugo.yaml`, `config/_default/params.yaml` and `config/_default/menus.yaml` according to to your needs. Find more info on the theme [wiki](https://github.com/chrede88/qubt/wiki/Configuration).
-4) Add your blog posts to `content/blog/`. See the [wiki](https://github.com/chrede88/qubt/wiki/Content) or example posts for reference.
+4) Add your posts to `content/work/`. See the [wiki](https://github.com/chrede88/qubt/wiki/Content) or example posts for reference.
 5) Modify `content/about.md` so it matches your preferences.
 6) Build a local version of your site by executing `hugo server`. You can see the site by navigating to `localhost:1313` (actual URL will be outputted in the CLI) in a browser.
 

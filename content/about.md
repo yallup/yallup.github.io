@@ -10,7 +10,7 @@ bio: true
 # icon: ":coffee:"
 ---
 
-I am a research associate based at the Kavli Institute for Cosmology, Institute of Astronomy, University of Cambridge. I additionally consult as a Data Scientist for [PolyChord Ltd.](https://polychord.io). I am an early career researcher aiming to bring together a mix of interests in Machine Learning and precision fundamental science. Previously I completed a PhD at University College London, where I worked at CERN on the ATLAS experiment. Currently I am a member of [Will Handley's research group](https://handley-lab.co.uk) 
+I'm a research associate at the Kavli Institute for Cosmology, University of Cambridge, and an AI researcher at [PolyChord Ltd.](https://polychord.io), working at the intersection of probabilistic machine learning and precision fundamental physics. My work focuses on scalable probabilistic inference to solve cutting-edge scientific inference problems. I completed my PhD at UCL while working on the ATLAS experiment at CERN, and have published work in top physics journals as well as presenting at top-tier AI conference venues (NeurIPS, ICLR). I'm part of [Will Handley's research group](https://handley-lab.co.uk), where I build tools that make state-of-the-art uncertainty quantification practical for real-world scientific and engineering systems. 
 
 
 
@@ -18,6 +18,7 @@ Current specific topics of interest:
  - Cosmology, accelerated likelihoods for Gravitational Wave Physics and CMB physics.
  - Simulation Based inference, interfacing generative AI with scientific inference problems.
  - MCMC methods, particularly with a view to building scalable GPU inference tools.
+ - Particle Monte Carlo methods, Nested sampling and Sequential Monte Carlo
 
 ### Current Work
 
