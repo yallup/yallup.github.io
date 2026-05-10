@@ -1,7 +1,22 @@
-# Hugo stuff
+# Hugo stuff (legacy, kept until repo cleanup)
 .hugo_build.lock
 **/resources/_gen/
 /public
+/resources
 
-# Apple stuff
+# Local caches
+.cache/
+.hugo_cache/
+.matplotlib_cache/
+.uv_cache/
+.venv/
+.mcp_handley_lab/
+
+# Editor / system
 .DS_Store
+.vscode/
+.python-version
+
+# Python project (currently unused by site)
+__pycache__/
+*.pyc

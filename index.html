@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="David Yallup — Research Associate at the University of Cambridge. Probabilistic inference, GPU acceleration, and generative AI for precision science.">
+    <meta name="keywords" content="David Yallup, probabilistic inference, nested sampling, Bayesian, JAX, BlackJAX, cosmology, gravitational waves, Cambridge, KICC, PolyChord">
+    <meta name="author" content="David Yallup">
+    <meta property="og:title" content="David Yallup">
+    <meta property="og:description" content="Probabilistic inference, GPU acceleration, and generative AI for precision science.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://yallup.github.io">
+    <meta property="og:image" content="https://yallup.github.io/images/og-card.png">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="https://yallup.github.io/images/og-card.png">
+    <title>David Yallup</title>
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><text x='32' y='44' font-size='32' text-anchor='middle' font-family='serif' font-style='italic' fill='%238a4f72'>ln%F0%9D%92%B5</text></svg>">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body id="top">
+    <header>
+        <div class="header-content">
+            <h1>David Yallup</h1>
+            <p>Research Associate · Kavli Institute for Cosmology, Cambridge<br>Research Scientist · PolyChord Ltd.</p>
+            <div class="social-links-header">
+                <a href="https://scholar.google.com/citations?hl=en&user=gmQyi6EAAAAJ"><i class="fas fa-graduation-cap"></i>Scholar</a>
+                <a href="https://github.com/yallup"><i class="fab fa-github"></i>GitHub</a>
+                <a href="https://www.linkedin.com/in/dyallup/"><i class="fab fa-linkedin"></i>LinkedIn</a>
+                <a href="mailto:dy297@cam.ac.uk"><i class="fas fa-envelope"></i>Email</a>
+                <a href="cv.html"><i class="fas fa-file-alt"></i>CV</a>
+            </div>
+        </div>
+        <div class="header-image">
+            <img src="images/profile.jpeg" alt="David Yallup">
+        </div>
+    </header>
+
+    <main>
+        <section id="about">
+            <p>I'm a postdoctoral researcher in probabilistic machine learning at the Kavli Institute for Cosmology, University of Cambridge, and a Research Scientist at <a href="https://polychord.io">PolyChord Ltd.</a> I'm a member of <a href="https://handley-lab.co.uk">Will Handley's research group</a>, and a College Research Associate at Corpus Christi College, Cambridge. My work focuses on GPU-accelerated Bayesian inference and generative AI for the physical sciences, leading development of open-source JAX libraries used across academia and industry. I completed my PhD at UCL on the ATLAS experiment at CERN.</p>
+        </section>
+
+        <section id="research">
+            <h2>Research</h2>
+            <p class="themes">MCMC · Nested Sampling · GPU-Accelerated Inference · Generative AI for Science</p>
+            <p>Current topics:</p>
+            <ul>
+                <li>Cosmology and gravitational wave inference</li>
+                <li>Flow matching and diffusion models for scientific inference</li>
+                <li>MCMC methods, with a focus on scalable GPU inference tools</li>
+                <li>Particle Monte Carlo, nested sampling, and sequential Monte Carlo</li>
+            </ul>
+            <p>Most of my work is built in <a href="https://github.com/jax-ml/jax">JAX</a>, with contributions to <a href="https://blackjax-devs.github.io/blackjax/">BlackJAX</a> and other inference libraries.</p>
+            <p>I&rsquo;m always happy to discuss these topics or potential collaboration &mdash; please get in touch.</p>
+        </section>
+
+        <section id="publications">
+            <div class="publications-header">
+                <h2 id="toggle-header">Recent Publications</h2>
+                <button id="toggle-publications" class="toggle-publications">Extend</button>
+            </div>
+            <div id="publications-container">
+                <!-- Publications loaded from publications.json -->
+            </div>
+            <p id="pub-note" class="pub-note">Listed above are highlight first-author level publications. I was a member of the ATLAS Collaboration at CERN during my PhD &mdash; for a full list of all co-authored papers see <a href="https://scholar.google.com/citations?hl=en&user=gmQyi6EAAAAJ">Google Scholar</a>.</p>
+        </section>
+
+    </main>
+
+    <div id="imageModal" class="modal">
+        <span class="modal-close" onclick="closeModal()">&times;</span>
+        <img class="modal-content" id="modalImage">
+    </div>
+    <script src="scripts.js"></script>
+</body>
+</html>

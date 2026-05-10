@@ -1,0 +1,142 @@
+{
+  "publications": [
+    {
+      "title": "Nested Slice Sampling: Vectorized Nested Sampling for GPU-Accelerated Inference",
+      "authors": [
+        "David Yallup",
+        "Namu Kroupa",
+        "Will Handley"
+      ],
+      "venue": "Transactions on Machine Learning Research (2026)",
+      "thumbnail": "images/thumbs/tmlr.png",
+      "selected": 1,
+      "links": {
+        "pdf": "https://openreview.net/forum?id=5mF2eRl3gt",
+        "arxiv": "https://arxiv.org/abs/2601.23252",
+        "code": "https://github.com/yallup/nss"
+      }
+    },
+    {
+      "title": "Nested Sampling with Slice-within-Gibbs: Efficient Evidence Calculation for Hierarchical Bayesian Models",
+      "authors": [
+        "David Yallup"
+      ],
+      "venue": "Preprint (2026)",
+      "selected": 1,
+      "links": {
+        "arxiv": "https://arxiv.org/abs/2602.17414",
+        "code": "https://github.com/yallup/swig"
+      },
+      "thumbnail": "images/thumbs/2602.17414.png"
+    },
+    {
+      "title": "Particle Monte Carlo methods for Lattice Field Theory",
+      "authors": [
+        "David Yallup"
+      ],
+      "venue": "NeurIPS 2025 workshop, Frontiers in Probabilistic Inference",
+      "thumbnail": "images/thumbs/lattice.png",
+      "selected": 1,
+      "links": {
+        "pdf": "https://openreview.net/forum?id=0qJRu6lm7b",
+        "arxiv": "https://arxiv.org/abs/2511.15196",
+        "poster": "papers/particle_monte_carlo_poster.pdf"
+      }
+    },
+    {
+      "title": "Nested Slice Sampling",
+      "authors": [
+        "David Yallup",
+        "Namu Kroupa",
+        "Will Handley"
+      ],
+      "venue": "ICLR 2025 Workshop: Frontiers in Probabilistic Inference",
+      "selected": 0,
+      "links": {
+        "pdf": "https://openreview.net/forum?id=ekbkMSuPo4",
+        "poster": "papers/ICLR_dy.pdf",
+        "code": "https://github.com/yallup/nss"
+      },
+      "thumbnail": "images/thumbs/nss.png"
+    },
+    {
+      "title": "Hunting for bumps in the margins",
+      "authors": [
+        "David Yallup",
+        "Will Handley"
+      ],
+      "venue": "JINST 18, P05014 (2023)",
+      "selected": 0,
+      "links": {
+        "pdf": "https://doi.org/10.1088/1748-0221/18/05/P05014",
+        "arxiv": "https://arxiv.org/abs/2211.10391"
+      },
+      "thumbnail": "images/thumbs/2211.10391.png"
+    },
+    {
+      "title": "Exploring phase space with nested sampling",
+      "authors": [
+        "David Yallup",
+        "Timo Jan\u00dfen",
+        "Steffen Schumann",
+        "Will Handley"
+      ],
+      "venue": "Eur. Phys. J. C 82, 678 (2022)",
+      "selected": 0,
+      "links": {
+        "pdf": "https://doi.org/10.1140/epjc/s10052-022-10632-2",
+        "arxiv": "https://arxiv.org/abs/2205.02030"
+      },
+      "thumbnail": "images/thumbs/2205.02030.png"
+    },
+    {
+      "title": "Testing new physics models with global comparisons to collider measurements: the Contur toolkit",
+      "authors": [
+        "A. Buckley",
+        "David Yallup",
+        "et al."
+      ],
+      "venue": "SciPost Phys. Core 4, 013 (2021)",
+      "thumbnail": "images/thumbs/2102.04377.png",
+      "selected": 0,
+      "links": {
+        "pdf": "https://doi.org/10.21468/SciPostPhysCore.4.2.013",
+        "arxiv": "https://arxiv.org/abs/2102.04377"
+      }
+    },
+    {
+      "title": "LHC Constraints on a B-L Gauge Model using Contur",
+      "authors": [
+        "S. Amrith",
+        "J. M. Butterworth",
+        "F. F. Deppisch",
+        "W. Liu",
+        "David Yallup"
+      ],
+      "venue": "JHEP 05, 154 (2019)",
+      "thumbnail": "images/thumbs/1811.11452.png",
+      "selected": 0,
+      "links": {
+        "pdf": "https://doi.org/10.1007/JHEP05(2019)154",
+        "arxiv": "https://arxiv.org/abs/1811.11452"
+      }
+    },
+    {
+      "title": "Constraining new physics with collider measurements of Standard Model signatures",
+      "authors": [
+        "J. M. Butterworth",
+        "D. Grellscheid",
+        "M. Kr\u00e4mer",
+        "B. Sarrazin",
+        "David Yallup"
+      ],
+      "venue": "JHEP 03, 078 (2017)",
+      "thumbnail": "images/thumbs/1606.05296.png",
+      "selected": 0,
+      "links": {
+        "pdf": "https://doi.org/10.1007/JHEP03(2017)078",
+        "arxiv": "https://arxiv.org/abs/1606.05296"
+      }
+    }
+  ]
+}
