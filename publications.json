@@ -17,6 +17,37 @@
       }
     },
     {
+      "title": "Quenched Ensemble Sampling",
+      "authors": [
+        "David Yallup"
+      ],
+      "venue": "Preprint (2026)",
+      "selected": 1,
+      "links": {
+        "arxiv": "https://arxiv.org/abs/2609.15894",
+        "code": "https://github.com/yallup/quenched_sampling"
+      },
+      "thumbnail": "images/thumbs/2609.15894.png"
+    },
+    {
+      "title": "Ab Initio Real-Time Gravitational-Wave Parameter Estimation",
+      "authors": [
+        "David Yallup",
+        "Metha Prathaban",
+        "James Alvey",
+        "Thomas C. K. Ng",
+        "Thibeau Wouters",
+        "Nikhil Sarin",
+        "Will Handley"
+      ],
+      "venue": "Preprint (2026)",
+      "selected": 1,
+      "links": {
+        "arxiv": "https://arxiv.org/abs/2607.28265"
+      },
+      "thumbnail": "images/thumbs/2607.28265.png"
+    },
+    {
       "title": "Nested Sampling with Slice-within-Gibbs: Efficient Evidence Calculation for Hierarchical Bayesian Models",
       "authors": [
         "David Yallup"
@@ -36,7 +67,7 @@
       ],
       "venue": "NeurIPS 2025 workshop, Frontiers in Probabilistic Inference",
       "thumbnail": "images/thumbs/lattice.png",
-      "selected": 1,
+      "selected": 0,
       "links": {
         "pdf": "https://openreview.net/forum?id=0qJRu6lm7b",
         "arxiv": "https://arxiv.org/abs/2511.15196",
